@@ -10,7 +10,7 @@ A simple 2048 game created using the Raylib Library and C.
 
 ```bash
 git clone [https://github.com/tarundeep1608/2048](https://github.com/tarundeep1608/2048)
-cd 2048.c
+cd 2048
 make
 ./2048
 ```
